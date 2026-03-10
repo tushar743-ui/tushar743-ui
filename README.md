@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **in/ tushar-patle-103576288**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1i6vFVKZ7AlOJXZlutwp0pha5uNZ0CKCv/view](https://drive.google.com/file/d/1i6vFVKZ7AlOJXZlutwp0pha5uNZ0CKCv/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
