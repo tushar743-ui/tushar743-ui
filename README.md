@@ -22,8 +22,7 @@
 | 🎁 Repository | ✨ Contributions |
 | --- | --- |
 | [KubeEdge](https://github.com/kubeedge/kubeedge) | [Pull Requests](https://github.com/kubeedge/kubeedge/pulls?q=is%3Apr+is%3Aclosed+author%3Atushar743-ui) |
-| [Inspektor-gadget](https://github.com/inspektor-gadget/inspektor-gadget) | [Pull Requests](https://github.com/inspektor-gadget/inspektor-gadget/pulls/tushar743-ui) |
-| [Kubestellar](https://github.com/kubestellar/kubestellar) | [Pull Requests](https://github.com/kubestellar/kubestellar/pulls/tushar743-ui) |
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
